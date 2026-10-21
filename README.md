@@ -1,15 +1,5 @@
 # Minishell
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/master/covers/cover-minishell.png" alt="Minishell 42 Project" width="600"/>
-  <br/>
-
-  ![42 School](https://img.shields.io/badge/School-42-000000?style=for-the-badge&logo=42&logoColor=white)
-  ![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Makefile](https://img.shields.io/badge/Build-Makefile-FFA000?style=for-the-badge&logo=gnu&logoColor=white)
-  ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-</div>
-
 ---
 
 ## 📌 About The Project
@@ -228,9 +218,3 @@ minishell$ exit
 
 ---
 
-## 👥 Authors
-
-- **deddaidi** ([GitHub / 42 Intranet](https://github.com/deddaidi))
-- **schernan** ([GitHub / 42 Intranet](https://github.com/schernan))
-
-Developed **as part of the 42 School curriculum**.
